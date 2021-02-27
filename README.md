@@ -22,7 +22,7 @@ OPTIONAL:
 
 
     ([schedule_times](https://i.ibb.co/BTQJWVc/shcedule-Job.jpg))
-6. You can also change Title name, tags, description etc. when uploading to Youtube in **youtube-uploader.py**.
+6. You can also change Title name, tags, description etc. when uploading to Youtube in **youtube-uploader.py**
 
 
     ([video_body](https://i.ibb.co/wcH3NgP/youtube-uploader-body.jpg))
