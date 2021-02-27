@@ -5,7 +5,7 @@ Clipperino-Bot automatically fetches the most popular clips from twitch every 4 
 ## How to use
 1. Download this repo.
 2. Create an application on https://dev.twitch.tv/console to get your client id and client secret
-3. In start.js, replace
+3. In **start.js**, replace
 
 
     const clientId = "your_client_id_here <--- with your id
@@ -22,7 +22,7 @@ OPTIONAL:
 
 
     ([schedule_times](https://i.ibb.co/BTQJWVc/shcedule-Job.jpg))
-6. You can also change Title name, tags, description etc. when uploading to Youtube in**youtube-uploader.py**.
+6. You can also change Title name, tags, description etc. when uploading to Youtube in **youtube-uploader.py**.
 
 
     ([video_body](https://i.ibb.co/wcH3NgP/youtube-uploader-body.jpg))
